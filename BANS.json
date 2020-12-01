@@ -1,4 +1,4 @@
 {
-  "nonce": ["example"],
-  "usernames": ["example"]
+  "nonce": ["exampleNONCE"],
+  "users": ["exampleUSER"]
 }

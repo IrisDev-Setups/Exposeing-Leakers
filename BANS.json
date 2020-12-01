@@ -1,4 +1,4 @@
 {
-  "nonce": ["%%__NONCE__%%"],
+  "nonce": ["exampleNONCE"],
   "users": ["exampleUSER"]
 }
